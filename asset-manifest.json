@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73785624.css",
+    "main.js": "/static/js/main.a1a3f90b.js",
+    "static/media/clothing.png": "/static/media/clothing.628d459d236fad872016.png",
+    "static/media/movie.png": "/static/media/movie.880890ade4a23feedc88.png",
+    "static/media/blog.png": "/static/media/blog.e80776c2033a6964d603.png",
+    "static/media/portfolio.png": "/static/media/portfolio.3cbf0f99935d95e30c96.png",
+    "static/media/rateb.jpg": "/static/media/rateb.6802048152cb2d730fa8.jpg",
+    "static/media/bootstrap.png": "/static/media/bootstrap.caafbb5567c905e583e8.png",
+    "static/media/wordpress.png": "/static/media/wordpress.50ed1e7774ec9cb6efac.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo2.png": "/static/media/logo2.56a5ce57b2d9c3c0bec2.png",
+    "static/media/jira.png": "/static/media/jira.50a6f273b9ec50378a9c.png",
+    "static/media/figma.png": "/static/media/figma.974a5a426c3b31326b1f.png",
+    "static/media/python.png": "/static/media/python.3c6b6170561e6cef744e.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.73785624.css.map": "/static/css/main.73785624.css.map",
+    "main.a1a3f90b.js.map": "/static/js/main.a1a3f90b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73785624.css",
+    "static/js/main.a1a3f90b.js"
+  ]
+}
