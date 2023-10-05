@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bdcdf44.css",
-    "main.js": "/static/js/main.79639126.js",
-    "static/media/clothing.png": "/static/media/clothing.628d459d236fad872016.png",
-    "static/media/movie.png": "/static/media/movie.23c701bf345746fe50d5.png",
-    "static/media/blog.png": "/static/media/blog.e80776c2033a6964d603.png",
+    "main.css": "/static/css/main.fcd99dd8.css",
+    "main.js": "/static/js/main.70d3aa12.js",
+    "static/media/clothing.png": "/static/media/clothing.c82d4d1ad97185c8002c.png",
     "static/media/portfolio.png": "/static/media/portfolio.3cbf0f99935d95e30c96.png",
+    "static/media/blog.png": "/static/media/blog.89f1f428c9388ff8fccc.png",
+    "static/media/movie.png": "/static/media/movie.74c42f57d3eeb60b5549.png",
     "static/media/rateb.jpg": "/static/media/rateb.6802048152cb2d730fa8.jpg",
     "static/media/bootstrap.png": "/static/media/bootstrap.caafbb5567c905e583e8.png",
     "static/media/wordpress.png": "/static/media/wordpress.50ed1e7774ec9cb6efac.png",
@@ -19,11 +19,11 @@
     "static/media/python.png": "/static/media/python.3c6b6170561e6cef744e.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.7bdcdf44.css.map": "/static/css/main.7bdcdf44.css.map",
-    "main.79639126.js.map": "/static/js/main.79639126.js.map"
+    "main.fcd99dd8.css.map": "/static/css/main.fcd99dd8.css.map",
+    "main.70d3aa12.js.map": "/static/js/main.70d3aa12.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bdcdf44.css",
-    "static/js/main.79639126.js"
+    "static/css/main.fcd99dd8.css",
+    "static/js/main.70d3aa12.js"
   ]
 }
