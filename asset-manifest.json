@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.56b26da5.css",
-    "main.js": "/static/js/main.049cf61a.js",
+    "main.css": "/static/css/main.7db78e41.css",
+    "main.js": "/static/js/main.069e8ac2.js",
     "static/media/clothing.png": "/static/media/clothing.c82d4d1ad97185c8002c.png",
     "static/media/portfolio.png": "/static/media/portfolio.3cbf0f99935d95e30c96.png",
     "static/media/blog.png": "/static/media/blog.89f1f428c9388ff8fccc.png",
+    "static/media/staypermonth.jpg": "/static/media/staypermonth.096aeff7b6dae96d70bb.jpg",
     "static/media/movie.png": "/static/media/movie.74c42f57d3eeb60b5549.png",
+    "static/media/dr.jpg": "/static/media/dr.efb02021e535e03c9739.jpg",
+    "static/media/foodie.jpg": "/static/media/foodie.c20313b3614519cdf05e.jpg",
+    "static/media/seosocial.jpg": "/static/media/seosocial.8826b5c980b34ced3cca.jpg",
     "static/media/rateb.jpg": "/static/media/rateb.6802048152cb2d730fa8.jpg",
+    "static/media/cinemazzika.jpg": "/static/media/cinemazzika.9cf46d1f1be347374b2a.jpg",
+    "static/media/signature.jpg": "/static/media/signature.522948fb3084b2874be4.jpg",
     "static/media/bootstrap.png": "/static/media/bootstrap.caafbb5567c905e583e8.png",
     "static/media/wordpress.png": "/static/media/wordpress.50ed1e7774ec9cb6efac.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -19,11 +25,11 @@
     "static/media/python.png": "/static/media/python.3c6b6170561e6cef744e.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.56b26da5.css.map": "/static/css/main.56b26da5.css.map",
-    "main.049cf61a.js.map": "/static/js/main.049cf61a.js.map"
+    "main.7db78e41.css.map": "/static/css/main.7db78e41.css.map",
+    "main.069e8ac2.js.map": "/static/js/main.069e8ac2.js.map"
   },
   "entrypoints": [
-    "static/css/main.56b26da5.css",
-    "static/js/main.049cf61a.js"
+    "static/css/main.7db78e41.css",
+    "static/js/main.069e8ac2.js"
   ]
 }
